@@ -3,7 +3,7 @@
 
 ## Desc
 ```
-Another world in Internet
+Another world on the Internet
 ```
 
 ## History
