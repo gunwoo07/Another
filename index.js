@@ -1,11 +1,15 @@
 const express = require("express");
 const app = express();
 const ejs = require("ejs");
+const cookieParser = require("cookie-parser");
 const loginRouter = require("./routers/Login");
 
 const port = 3000;
 
 
+app.use(express.urlencoded());
+app.use(express.json());
+app.use(cookieParser());
 app.set("view engine", "ejs");
 app.set("views", "./views");
 app.use("/login", loginRouter);

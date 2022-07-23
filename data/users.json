@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "id": "rainmaker",
+            "password": "hacker",
+            "name": "김건우",
+            "money": 0
+        }
+    ]
+}
