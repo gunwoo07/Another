@@ -1,0 +1,19 @@
+{
+  "name": "another",
+  "version": "1.0.0",
+  "description": "Another world on the Internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunwoo07/Another.git"
+  },
+  "author": "gunwoo07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunwoo07/Another/issues"
+  },
+  "homepage": "https://github.com/gunwoo07/Another#readme"
+}
